@@ -1,0 +1,8 @@
+git clone git@github.com:surojit-pathak/LaraCroft.git
+git clone git://libvirt.org/libvirt
+git config --global user.name "Surojit Pathak"
+git diff
+git remote -v
+make
+reset
+ssh-keygen -t dsa
